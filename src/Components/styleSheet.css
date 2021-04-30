@@ -1,0 +1,11 @@
+.even{
+    background-color:#fffcec;
+
+}
+.odd{
+    background-color:#f7fcfe;
+    
+}
+.tbl tr{
+         border:solid;
+}
